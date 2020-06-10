@@ -2,21 +2,21 @@
 ## depending on the persistency of the impact of the shock on the service sector.
 
 
-### Introduction 
+### 1 Introduction 
 In mid January, the COVID-19 broke out in Wuhan and Hubei and spread to the whole country
 Supply Side: industrial production will be significantly under pressure
 Demand Side: consumption growth will drop significantly, and investment in real estate development and manufacturing will be impacted
-### Model
-###### Consumer Utility
-###### Three Productiion sectors
+### 2 Model
+#### Consumer Utility
+#### Three Productiion sectors
 Agricultural Sector
 Industrial Sector
 Service Sector
-###### Constant growth of population and technology productivity
-###### Market cleaning condition
-### Estimation Strategy
+#### Constant growth of population and technology productivity
+#### Market cleaning condition
+### 3 Estimation Strategy
  use the average percentages of the output of three sectors in a period to match the real data.
-### Conclusion
-• The epidemic has an impact on the economy, causing negative effects not only on production, but also on utility and wage.
-• The severity of the epidemic depends on the persistency of the shock on economy.
-• No matter how long the impact of the epidemic lasts, China’s economy will follow its growth pattern before epidemic
+### 4 Conclusion
+The epidemic has an impact on the economy, causing negative effects not only on production, but also on utility and wage.
+The severity of the epidemic depends on the persistency of the shock on economy.
+No matter how long the impact of the epidemic lasts, China’s economy will follow its growth pattern before epidemic
