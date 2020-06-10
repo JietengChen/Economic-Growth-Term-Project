@@ -1,2 +1,4 @@
-# Economic Growth Term Project
-The overlapping generation model
+# The Effect of COVID-19 on Economic Fluctuation 
+## depending on the persistency of the impact of the shock on the service sector.
+
+
