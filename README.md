@@ -17,6 +17,6 @@ Service Sector
 ### 3 Estimation Strategy
  use the average percentages of the output of three sectors in a period to match the real data.
 ### 4 Conclusion
-The epidemic has an impact on the economy, causing negative effects not only on production, but also on utility and wage.
-The severity of the epidemic depends on the persistency of the shock on economy.
-No matter how long the impact of the epidemic lasts, China’s economy will follow its growth pattern before epidemic
+a) The epidemic has an impact on the economy, causing negative effects not only on production, but also on utility and wage.
+b) The severity of the epidemic depends on the persistency of the shock on economy.
+c) No matter how long the impact of the epidemic lasts, China’s economy will follow its growth pattern before epidemic
