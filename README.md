@@ -8,8 +8,8 @@ Supply Side: industrial production will be significantly under pressure
 Demand Side: consumption growth will drop significantly, and investment in real estate development and manufacturing will be impacted
 
 ### 2 Model
-#### Consumer Utility
-#### Three Productiion sectors
+#### Consumer Utility (log function)
+#### Three Productiion sectors (Cobb Douglas form)
 Agricultural Sector
 Industrial Sector
 Service Sector
