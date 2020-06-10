@@ -11,7 +11,9 @@ Demand Side: consumption growth will drop significantly, and investment in real 
 #### (a) Consumer Utility (log function)
 #### (b) Three Productiion sectors (Cobb Douglas form)
 Agricultural Sector
+
 Industrial Sector
+
 Service Sector
 #### (c) Constant growth of population and technology productivity
 #### (d) Profit maximization and utility maximization
