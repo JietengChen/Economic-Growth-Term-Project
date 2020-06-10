@@ -1,2 +1,2 @@
-# Economic_Growth_Term_Project
-This repository contains the slide, code, data in this project.
+# Economic Growth Term Project
+The overlapping generation model
