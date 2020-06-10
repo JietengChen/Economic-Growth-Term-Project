@@ -8,13 +8,14 @@ Supply Side: industrial production will be significantly under pressure
 Demand Side: consumption growth will drop significantly, and investment in real estate development and manufacturing will be impacted
 
 ### 2 Model
-#### Consumer Utility (log function)
-#### Three Productiion sectors (Cobb Douglas form)
+#### (a) Consumer Utility (log function)
+#### (b) Three Productiion sectors (Cobb Douglas form)
 Agricultural Sector
 Industrial Sector
 Service Sector
-#### Constant growth of population and technology productivity
-#### Market cleaning condition
+#### (c) Constant growth of population and technology productivity
+#### (d) Profit maximization and utility maximization
+#### (e) Market cleaning condition
 
 ### 3 Estimation Strategy
  use the average percentages of the output of three sectors in a period to match the real data.
