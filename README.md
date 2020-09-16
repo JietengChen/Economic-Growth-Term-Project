@@ -1,5 +1,5 @@
-# The Effect of COVID-19 on Economic Fluctuation 
-## depending on the persistency of the impact of the shock on the service sector.
+# The Effect of COVID-19 on the Service Sector Performance 
+## The role of the persistency of the impact of the shock on the service sector.
 
 
 ### 1 Introduction 
