@@ -1,28 +1,28 @@
-## The Effect of COVID-19 on the Service Sector Performance 
-### The role of the persistency of the impact of the shock on the service sector.
+# The Effect of COVID-19 on the Service Sector Performance 
+## The role of the persistency of the impact of the shock on the service sector.
 
 
-#### 1 Introduction 
+### 1 Introduction 
 In mid January, the COVID-19 broke out in Wuhan and Hubei and spread to the whole country
 Supply Side: industrial production will be significantly under pressure
 Demand Side: consumption growth will drop significantly, and investment in real estate development and manufacturing will be impacted
 
-#### 2 Model
-##### (a) Consumer Utility (log function)
-##### (b) Three Productiion sectors (Cobb Douglas form)
+### 2 Model
+#### (a) Consumer Utility (log function)
+#### (b) Three Productiion sectors (Cobb Douglas form)
 Agricultural Sector
 
 Industrial Sector
 
 Service Sector
-##### (c) Constant growth of population and technology productivity
-##### (d) Profit maximization and utility maximization
-##### (e) Market cleaning condition
+#### (c) Constant growth of population and technology productivity
+#### (d) Profit maximization and utility maximization
+#### (e) Market cleaning condition
 
-#### 3 Estimation Strategy
+### 3 Estimation Strategy
  use the average percentages of the output of three sectors in a period to match the real data.
 
-#### 4 Conclusion
+### 4 Conclusion
 (a) The epidemic has an impact on the economy, causing negative effects not only on production, but also on utility and wage.
 
 (b) The severity of the epidemic depends on the persistency of the shock on economy.
